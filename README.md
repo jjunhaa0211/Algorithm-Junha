@@ -48,15 +48,16 @@
   > |:---:| :--- | :--- | :--- |
   > |1| 자료구조란? | **자료구조에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/자료구조란.md) |
   > |2| 단순 구조? | **단순 구조에 대해서 설명합니다.** |
-  > |3| 정수형 | **정수형에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/정수형/정수형.md) | 
-  >  |3.1| 정수형 코드 예제 | **정수형 코드 예제** | [정수형 코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/정수형/정수형.playground/Contents.swift) |
-  > |4| 실수형 | **실수형에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/소수형/부동%20소수점형.md) |
-  >  |4.1| 실수형 코드 예제 | **실수형 코드 예제** | [실수형 코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/소수형/소수형.playground/Contents.swift) |
-  > |5| 문자형 | **문자형에 대해서 설명합니다.** | |
-  > |7| 선형 구조? | **선형 구조에 대해서 설명합니다.** | |
-  > |8| 비선형 구조? | **비선형 구조에 대해서 설명합니다.** | |
-  > |9| 박오표기법 어디서 들어봤는데 | **빅오표기법에 대해서 설명합니다.** | |
-  > |10| 시간복잡도 누구냐 넌! | **시간 복잡도에 대해서 설명합니다.** | |
+  > |2.1| 정수형 | **정수형에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/정수형/정수형.md) | 
+  >  |2.1.1| 정수형 코드 예제 | **정수형 코드 예제** | [정수형 코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/정수형/정수형.playground/Contents.swift) |
+  > |2.2| 실수형 | **실수형에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/소수형/부동%20소수점형.md) |
+  >  |2.2.1| 실수형 코드 예제 | **실수형 코드 예제** | [실수형 코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/소수형/소수형.playground/Contents.swift) |
+  > |2.3| 문자형 | **문자형에 대해서 설명합니다.** | |
+  > |2.3.1| 문자형 | **문자형에 대해서 설명합니다.** | |
+  > |3| 선형 구조? | **선형 구조에 대해서 설명합니다.** | |
+  > |4| 비선형 구조? | **비선형 구조에 대해서 설명합니다.** | |
+  > |5| 박오표기법 어디서 들어봤는데 | **빅오표기법에 대해서 설명합니다.** | |
+  > |6| 시간복잡도 누구냐 넌! | **시간 복잡도에 대해서 설명합니다.** | |
 
 ### **챕터 II: 리스트**<a id="리스트"></a>
   > | 순서 | 제목 | 내용 | 링크 |
