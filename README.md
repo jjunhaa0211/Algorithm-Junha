@@ -31,7 +31,9 @@
     * [트라이](#트라이)
     * [이진탐색](#이진탐색)
     * [정렬](#정렬)
+* [Data Structures & Algorithms in Swift](#Data_Structures)
 * [알고리즘](#알고리즘)
+
 
 <br>
 
@@ -75,9 +77,10 @@
 ### **챕터 IV: 큐**<a id="큐"></a>
   > | 순서 | 제목 | 내용 | 링크 | 코드 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1| 큐? | **큐에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/큐/큐.md) | [코드 예제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/큐/일반%20큐.playground/Contents.swift) |
-  > |2| 선형큐란? | **선형큐에 대해서 설명합니다.** | | |
-  > |3| 원형큐란?? | **원형큐에 대해서 설명합니다.** | | |
+  > |1| 큐? | **큐에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/큐/선형큐.md) | [코드 예제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/큐/일반%20큐.playground/Contents.swift) |
+  > |2| 원형 큐?? | **원형큐에 대해서 설명합니다.** | | |
+  > |3| 우선순위 큐?? | **우선순위 큐에 대해서 설명합니다.** | | |
+  > |4| 덱 큐?? | **덱 큐에 대해서 설명합니다.** | | |
 
 ### **챕터 V: 해시 테이블**<a id="해시테이블"></a>
   > | 순서 | 제목 | 내용 | 링크 |
@@ -131,6 +134,16 @@
   > |5| 투포인터? | **투포인터에 대해서 설명합니다.** |
   > |6| 백트래킹? | **백트래킹에 대해서 설명합니다.** |
   > |7| 동적계획법? | **동적계획법에 대해서 설명합니다.** |
+
+  <br>
+
+# <a id="Data_Structures"></a> Data Structures & Algorithms in Swift
+<img width="291" alt="스크린샷 2024-04-29 오후 2 42 25" src="https://github.com/jjunhaa0211/Algorithm-Junha/assets/102890390/5ba5efcf-0cc5-4136-8bba-4687dd99b911">
+
+### **챕터 I:  Data Structures & Algorithms in Swift**
+  > | 순서 | 제목 | 내용 | 링크 |
+  > |:---:| :--- | :--- | :--- |
+  > |1| 소개 | **알고리즘을 해야하는 이유** |
 
   <br>
 
