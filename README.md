@@ -143,7 +143,7 @@
 ### **챕터 I:  Data Structures & Algorithms in Swift**
   > | 순서 | 제목 | 내용 | 링크 |
   > |:---:| :--- | :--- | :--- |
-  > |1| 소개 | **알고리즘을 해야하는 이유** |
+  > |1| 소개 | **알고리즘을 해야하는 이유** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/Data%20Structures%20%26%20Algorithms%20in%20Swift/소개.md) | 
 
   <br>
 
