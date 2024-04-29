@@ -75,9 +75,9 @@
 ### **챕터 IV: 큐**<a id="큐"></a>
   > | 순서 | 제목 | 내용 | 링크 | 코드 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1| 큐? | **큐에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/큐/큐.md) | [코드 예제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/큐/일반%20큐.playground/Contents.swift) |
-  > |2| 선형큐란? | **선형큐에 대해서 설명합니다.** | | |
-  > |3| 원형큐란?? | **원형큐에 대해서 설명합니다.** | | |
+  > |1| 큐? | **큐에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/큐/선형큐.md) | [코드 예제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/큐/일반%20큐.playground/Contents.swift) |
+  > |2| 원형 큐?? | **원형큐에 대해서 설명합니다.** | | |
+  > |3| 우선순위 큐?? | **우선순위 큐에 대해서 설명합니다.** | | |
 
 ### **챕터 V: 해시 테이블**<a id="해시테이블"></a>
   > | 순서 | 제목 | 내용 | 링크 |
