@@ -146,7 +146,7 @@
   > |1| 소개 | **알고리즘을 해야하는 이유** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/Data%20Structures%20%26%20Algorithms%20in%20Swift/소개.md) |
   > |2| 복잡도 | **복잡도를 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/Data%20Structures%20%26%20Algorithms%20in%20Swift/복잡도.md) |
   > |3| 스택 | **스택을 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/Data%20Structures%20%26%20Algorithms%20in%20Swift/스택.md) |
-  > |4| Swift 표준 라이브러리 | **Swift 표준 라이브러리를 설명합니다.** | |  
+  > |4| Swift 표준 라이브러리 | **Swift 표준 라이브러리를 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/Data%20Structures%20%26%20Algorithms%20in%20Swift/Swift%20표준%20라이브러리.md) |  
 
   <br>
 
