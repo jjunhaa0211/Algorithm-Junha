@@ -1,23 +1,23 @@
 import UIKit
 
-class Node<T> {
-    var data: T?
-    var next: Node?
+public class Node<T> {
+    public var data: T?
+    public var next: Node?
     
-    init(data: T?, next: Node? = nil) {
+    public init(data: T?, next: Node? = nil) {
         self.data = data
         self.next = next
     }
 }
 
-struct LinkedList<T: Equatable> {
+public struct LinkedList<T: Equatable> {
     private var head: Node<T>?
     
-    init(head: Node<T>? = nil) {
+    public init(head: Node<T>? = nil) {
         self.head = head
     }
     
-    mutating func append(_ data: T?) {
+    mutating public func append(_ data: T?) {
         // 리스트에 값이 없을때 새롭게 헤드 지정
         if head == nil {
             head = Node(data: data)
@@ -32,7 +32,7 @@ struct LinkedList<T: Equatable> {
     }
     
     // 특정 위치에 새로운 노드 삽입
-    mutating func insert(_ data: T, at index: Int) {
+    mutating public func insert(_ data: T, at index: Int) {
         // 리스트 값 없을때 새롭게 헤드 지정
         if head == nil {
             head = Node(data: data)
@@ -51,7 +51,7 @@ struct LinkedList<T: Equatable> {
     }
     
     // 마지막 데이터 요소 삭제
-    mutating func removeLast() {
+    mutating public func removeLast() {
         // 데이터 없을 시 미삭제
         if head == nil {
             return
@@ -70,7 +70,7 @@ struct LinkedList<T: Equatable> {
     }
     
     // 원하는 위치 요소 삭제
-    mutating func remove(at index: Int) {
+    mutating public func remove(at index: Int) {
         // 데이터 없다면 탈출
         if head == nil { return }
         // head를 삭제할때
@@ -91,12 +91,12 @@ struct LinkedList<T: Equatable> {
     }
     
     // 전체 연결 리스트 삭제
-    mutating func removeAll() {
+    mutating public func removeAll() {
         head = nil
     }
     
     // 데이터로 원하는 노드 찾기
-    mutating func searchNode(from data: T?) -> Node<T>? {
+    mutating public func searchNode(from data: T?) -> Node<T>? {
         // 데이터가 없으면 nil 반환
         if head == nil { return nil }
         var node = head
@@ -110,7 +110,7 @@ struct LinkedList<T: Equatable> {
     }
     
     // 연결 리스트의 사이즈 측정
-    func size() -> Int {
+    public func size() -> Int {
         var node = head
         if node == nil {
             return 0
@@ -125,7 +125,7 @@ struct LinkedList<T: Equatable> {
     }
     
     // 찾는 데이터가 있는지에 대해 판별
-    func contains(_ data: T) -> Bool {
+    public func contains(_ data: T) -> Bool {
         var node = head
         
         while true {
@@ -140,7 +140,7 @@ struct LinkedList<T: Equatable> {
     }
     
     // 연결 리스트가 비어있는지 판별
-    var isEmpty: Bool {
+    public var isEmpty: Bool {
         return head == nil
     }
 }
