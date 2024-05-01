@@ -160,5 +160,5 @@ https://github.com/jjunhaa0211/Algorithm-Junha
   > | 유형 | 제목 | 출제 사이트 | 코드 |
   > |:---:| :--- | :--- |  :--- |
   > | 스택 | 스택2(28278) | 백준 | [문제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/문제/스택/스택2(백준)_28278/스택2(백준)_28278/main.swift) |
-  > | 큐 | 큐(10845) | 백준 | [문제]() |
+  > | 큐 | 큐(10845) | 백준 | [문제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/문제/큐/큐(백준)_10845/큐(백준)_10845/main.swift) |
 
