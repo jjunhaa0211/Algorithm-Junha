@@ -8,12 +8,6 @@
 저의 목표는 단순 프로그래머가 아니라 엔지니어 입니다!
 ```
 
-## SPM 
-- spm를 사용해서 실습 코드를 바로 라이브러리로 사용해볼 수 있습니다.
-```
-https://github.com/jjunhaa0211/Algorithm-Junha
-```
-
 <br>
 잘못된 정보가 있을 수 있습니다..하하 잘못된 내용은 바로바로 고치겠습니다!
 <br>
@@ -22,6 +16,12 @@ https://github.com/jjunhaa0211/Algorithm-Junha
 <br>
 
 * ⚠️ 여기서 잠깐! 모든 설명은 iOS 개발을 기준으로 되어있어요!!! 이론은 몰라도 다른 내용은 Swift 언어를 숙지해주세요! 😅
+
+## SPM 
+- spm를 사용해서 실습 코드를 바로 라이브러리로 사용해볼 수 있습니다.
+```
+https://github.com/jjunhaa0211/Algorithm-Junha
+```
 
 ### 목차
 
