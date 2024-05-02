@@ -23,6 +23,13 @@ public struct Stack<T> {
         return isEmpty ? nil : stack.popLast()
     }
     
+    public func item(at index: Int) -> T? {
+        guard index >= 0 && index < stack.count else {
+            return nil
+        }
+        return stack[index]
+    }
+    
     public init() { }
 }
 
