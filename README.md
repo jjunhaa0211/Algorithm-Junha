@@ -17,11 +17,15 @@
 
 * ⚠️ 여기서 잠깐! 모든 설명은 iOS 개발을 기준으로 되어있어요!!! 이론은 몰라도 다른 내용은 Swift 언어를 숙지해주세요! 😅
 
-## SPM 
-- spm를 사용해서 실습 코드를 바로 라이브러리로 사용해볼 수 있습니다.
-```
-https://github.com/jjunhaa0211/Algorithm-Junha
-```
+## 예제 사용 방법
+<img width="1066" alt="스크린샷 2024-05-02 오후 1 10 16" src="https://github.com/jjunhaa0211/Algorithm-Junha/assets/102890390/f3f20230-5ac4-48f3-8c42-1a4aa6bd3210">
+
+- add local 클릭후
+
+- 다운 받은 Algorithm-Junha 선택
+
+<img width="252" alt="스크린샷 2024-05-02 오후 1 11 07" src="https://github.com/jjunhaa0211/Algorithm-Junha/assets/102890390/0d6df2e3-45fd-4986-b656-1df1aed2cc76">
+모든! 준비가 끝났습니다.
 
 ### 목차
 
