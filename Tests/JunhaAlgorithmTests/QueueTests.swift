@@ -11,7 +11,7 @@ import JunhaAlgorithm
 final class QueueTests: XCTestCase {
 
     func test_큐가_초기에_비어있는지_확인() {
-        var queue = QueueArray<Int>()
+        let queue = QueueArray<Int>()
         XCTAssertTrue(queue.isEmpty)
     }
     
