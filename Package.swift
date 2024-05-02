@@ -4,23 +4,23 @@
 import PackageDescription
 
 let package = Package(
-    name: "JunhaAlgorithm",
+    name: "Algorithm-Junha",
     platforms: [
         .iOS(.v16)
     ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
-            name: "JunhaAlgorithm",
-            targets: ["JunhaAlgorithm"]),
+            name: "Algorithm-Junha",
+            targets: ["Algorithm-Junha"]),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "JunhaAlgorithm"),
+            name: "Algorithm-Junha"),
         .testTarget(
-            name: "JunhaAlgorithmTests",
-            dependencies: ["JunhaAlgorithm"]),
+            name: "Algorithm-JunhaTests",
+            dependencies: ["Algorithm-Junha"]),
     ]
 )
