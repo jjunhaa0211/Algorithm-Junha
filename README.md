@@ -20,6 +20,8 @@
 ## 예제 사용 방법
 <img width="1066" alt="스크린샷 2024-05-02 오후 1 10 16" src="https://github.com/jjunhaa0211/Algorithm-Junha/assets/102890390/f3f20230-5ac4-48f3-8c42-1a4aa6bd3210">
 
+- spm을 클릭해줍니다.
+
 - add local 클릭후
 
 - 다운 받은 Algorithm-Junha 선택
