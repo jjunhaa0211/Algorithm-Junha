@@ -25,6 +25,7 @@
 - 다운 받은 Algorithm-Junha 선택
 
 <img width="252" alt="스크린샷 2024-05-02 오후 1 11 07" src="https://github.com/jjunhaa0211/Algorithm-Junha/assets/102890390/0d6df2e3-45fd-4986-b656-1df1aed2cc76">
+
 모든! 준비가 끝났습니다.
 
 ### 목차
