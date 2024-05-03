@@ -133,7 +133,7 @@
   > |:---:| :--- | :--- | :--- | :--- | 
   > |1| 버블 정렬? | **버블 정렬에 대해서 설명합니다!** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/버블정렬/버블%20정렬.md) | [코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/버블정렬/버블정렬.playground/Contents.swift) |
   > |2| 선택 정렬? | **선택 정렬에 대해서 설명합니다!** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/선택정렬/선택%20정렬.md) | [코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/선택정렬/선택정렬.playground/Contents.swift) |
-  > |3| 삽입 정렬? | **삽입 정렬에 대해서 설명합니다!** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/삽입정렬/삽입%20정렬.md) | |
+  > |3| 삽입 정렬? | **삽입 정렬에 대해서 설명합니다!** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/삽입정렬/삽입%20정렬.md) | [코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/삽입정렬/삽입정렬.playground/Contents.swift) |
   > |4| 퀵 정렬? | **퀵 정렬에 대해서 설명합니다!** | | |
   > |5| 병합 정렬? | **병합 정렬에 대해서 설명합니다!** | | |
 
