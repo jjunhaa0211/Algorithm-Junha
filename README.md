@@ -12,7 +12,7 @@
 잘못된 정보가 있을 수 있습니다..하하 잘못된 내용은 바로바로 고치겠습니다!
 <br>
 
-여러분도...함께 해줄거죠..? 혼자는 외로워서 못하겠어요,, 😭
+여러분도...함께 해줄거죠..? 혼자는 외로워서 못하겠어요,, 😭 
 <br>
 
 * ⚠️ 여기서 잠깐! 모든 설명은 iOS 개발을 기준으로 되어있어요!!! 이론은 몰라도 다른 내용은 Swift 언어를 숙지해주세요! 😅
@@ -30,9 +30,11 @@
 
 <img width="252" alt="스크린샷 2024-05-02 오후 1 11 07" src="https://github.com/jjunhaa0211/Algorithm-Junha/assets/102890390/0d6df2e3-45fd-4986-b656-1df1aed2cc76">
 
-모든! 준비가 끝났습니다.
+모든! 준비가 끝났습니다.'
 
-### 목차
+> 추후에 SDK로 만들어보겠습니다
+
+### 목차 
 
 * [공부를 시작한 이유](#공부를_시작한_이유)
 * [자료구조](#자료구조)
@@ -133,7 +135,7 @@
   > |:---:| :--- | :--- | :--- | :--- | 
   > |1| 버블 정렬? | **버블 정렬에 대해서 설명합니다!** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/버블정렬/버블%20정렬.md) | [코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/버블정렬/버블정렬.playground/Contents.swift) |
   > |2| 선택 정렬? | **선택 정렬에 대해서 설명합니다!** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/선택정렬/선택%20정렬.md) | [코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/선택정렬/선택정렬.playground/Contents.swift) |
-  > |3| 삽입 정렬? | **삽입 정렬에 대해서 설명합니다!** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/삽입정렬/삽입%20정렬.md) | |
+  > |3| 삽입 정렬? | **삽입 정렬에 대해서 설명합니다!** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/삽입정렬/삽입%20정렬.md) | [코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/정렬/삽입정렬/삽입정렬.playground/Contents.swift) |
   > |4| 퀵 정렬? | **퀵 정렬에 대해서 설명합니다!** | | |
   > |5| 병합 정렬? | **병합 정렬에 대해서 설명합니다!** | | |
 
