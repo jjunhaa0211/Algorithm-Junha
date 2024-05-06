@@ -17,6 +17,7 @@
 		0E3CE74C2BE3AB060066DA7F /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 0E3CE74B2BE3AB060066DA7F /* SnapKit */; };
 		0E3CE74E2BE3BFC40066DA7F /* QueueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E3CE74D2BE3BFC40066DA7F /* QueueViewController.swift */; };
 		0E40A6712BE8C69B005992A2 /* LinkedListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E40A6702BE8C69B005992A2 /* LinkedListViewController.swift */; };
+		0E5F5E172BE8F0B300316DFB /* HashTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5F5E162BE8F0B300316DFB /* HashTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		0E3CE7452BE3AA9D0066DA7F /* StackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewController.swift; sourceTree = "<group>"; };
 		0E3CE74D2BE3BFC40066DA7F /* QueueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueueViewController.swift; sourceTree = "<group>"; };
 		0E40A6702BE8C69B005992A2 /* LinkedListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListViewController.swift; sourceTree = "<group>"; };
+		0E5F5E162BE8F0B300316DFB /* HashTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 			children = (
 				0E3CE72E2BE3A9F90066DA7F /* AppDelegate.swift */,
 				0E3CE7302BE3A9F90066DA7F /* SceneDelegate.swift */,
+				0E5F5E152BE8F0A400316DFB /* HashTable */,
 				0E5F5E142BE8E61000316DFB /* LinkedList */,
 				0E5F5E132BE8E60800316DFB /* Queue */,
 				0E5F5E122BE8E60200316DFB /* Stack */,
@@ -98,6 +101,14 @@
 				0E40A6702BE8C69B005992A2 /* LinkedListViewController.swift */,
 			);
 			path = LinkedList;
+			sourceTree = "<group>";
+		};
+		0E5F5E152BE8F0A400316DFB /* HashTable */ = {
+			isa = PBXGroup;
+			children = (
+				0E5F5E162BE8F0B300316DFB /* HashTableViewController.swift */,
+			);
+			path = HashTable;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -185,6 +196,7 @@
 				0E40A6712BE8C69B005992A2 /* LinkedListViewController.swift in Sources */,
 				0E3CE72F2BE3A9F90066DA7F /* AppDelegate.swift in Sources */,
 				0E3CE7312BE3A9F90066DA7F /* SceneDelegate.swift in Sources */,
+				0E5F5E172BE8F0B300316DFB /* HashTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
