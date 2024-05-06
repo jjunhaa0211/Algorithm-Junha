@@ -71,7 +71,7 @@
   >  |2.1.1| 정수형 코드 예제 | **정수형 코드 예제** | [정수형 코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/정수형/정수형.playground/Contents.swift) |
   > |2.2| 실수형 | **실수형에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/소수형/부동%20소수점형.md) |
   >  |2.2.1| 실수형 코드 예제 | **실수형 코드 예제** | [실수형 코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/소수형/소수형.playground/Contents.swift) |
-  > |2.3| 문자형 | **문자형에 대해서 설명합니다.** | [⚠️ 설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/문자형/문자열과%20문자.md) |
+  > |2.3| 문자형 | **문자형에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/단순%20구조/문자형/문자열과%20문자.md) |
   > |3| 선형 구조? | **선형 구조에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/선형%20구조/선형%20구조.md) |
   > |4| 비선형 구조? | **비선형 구조에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/비선형%20구조/비선형%20구조.md) |
   > |5| 빅오표기법 어디서 들어봤는데 | **빅오표기법에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/빅오표기법/빅오%20표기법.md) |
