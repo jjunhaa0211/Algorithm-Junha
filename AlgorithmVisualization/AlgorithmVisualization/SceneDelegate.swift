@@ -7,7 +7,7 @@ final class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
         guard let windowScene = (scene as? UIWindowScene) else { return }
         window = UIWindow(windowScene: windowScene)
-        linkList()
+        sha256()
     }
 
     private func stack() {
@@ -22,6 +22,16 @@ final class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     
     private func linkList() {
         window?.rootViewController = UINavigationController(rootViewController: LinkedListViewController())
+        window?.makeKeyAndVisible()
+    }
+    
+    private func hashTable() {
+        window?.rootViewController = UINavigationController(rootViewController: HashTableViewController())
+        window?.makeKeyAndVisible()
+    }
+    
+    private func sha256() {
+        window?.rootViewController = UINavigationController(rootViewController: SHA256ViewController())
         window?.makeKeyAndVisible()
     }
 }

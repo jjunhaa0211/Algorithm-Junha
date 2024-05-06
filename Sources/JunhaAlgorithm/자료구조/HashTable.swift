@@ -14,7 +14,7 @@ public struct HashTable {
 
     /// 초기화 함수입니다. 해시 테이블의 최대 용량을 설정하고, 모든 위치를 nil로 초기화합니다.
     /// - Parameter capacity: 해시 테이블의 최대 용량입니다.
-    init(capacity: Int) {
+    public init(capacity: Int) {
         self.capacity = capacity
         self.table = .init(repeating: nil, count: capacity)
     }
@@ -30,7 +30,7 @@ public struct HashTable {
     /// - Parameters:
     ///   - value: 저장할 문자열 값입니다.
     ///   - key: 값과 연결될 키입니다.
-    mutating func updateValue(_ value: String, forKey key: String) {
+    mutating public func updateValue(_ value: String, forKey key: String) {
         guard let key = UnicodeScalar(key)?.value else { return }
         let hashAddress = hash(key: Int(key))
         table[hashAddress] = value
@@ -39,7 +39,7 @@ public struct HashTable {
     /// 주어진 키에 해당하는 값을 해시 테이블에서 찾아 반환하는 함수입니다.
     /// - Parameter key: 찾고자 하는 값의 키입니다.
     /// - Returns: 키에 해당하는 값이 있으면 그 값을, 없으면 nil을 반환합니다.
-    func getValue(forKey key: String) -> String? {
+    mutating public func getValue(forKey key: String) -> String? {
         guard let key = UnicodeScalar(key)?.value else { return nil }
         let hashAddress = hash(key: Int(key))
         return table[hashAddress]

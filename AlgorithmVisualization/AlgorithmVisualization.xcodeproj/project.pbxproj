@@ -18,6 +18,7 @@
 		0E3CE74E2BE3BFC40066DA7F /* QueueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E3CE74D2BE3BFC40066DA7F /* QueueViewController.swift */; };
 		0E40A6712BE8C69B005992A2 /* LinkedListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E40A6702BE8C69B005992A2 /* LinkedListViewController.swift */; };
 		0E5F5E172BE8F0B300316DFB /* HashTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5F5E162BE8F0B300316DFB /* HashTableViewController.swift */; };
+		0E5F5E1B2BE8FD4B00316DFB /* SHA256ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5F5E1A2BE8FD4B00316DFB /* SHA256ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		0E3CE74D2BE3BFC40066DA7F /* QueueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueueViewController.swift; sourceTree = "<group>"; };
 		0E40A6702BE8C69B005992A2 /* LinkedListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListViewController.swift; sourceTree = "<group>"; };
 		0E5F5E162BE8F0B300316DFB /* HashTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashTableViewController.swift; sourceTree = "<group>"; };
+		0E5F5E1A2BE8FD4B00316DFB /* SHA256ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SHA256ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,10 +70,8 @@
 			children = (
 				0E3CE72E2BE3A9F90066DA7F /* AppDelegate.swift */,
 				0E3CE7302BE3A9F90066DA7F /* SceneDelegate.swift */,
-				0E5F5E152BE8F0A400316DFB /* HashTable */,
-				0E5F5E142BE8E61000316DFB /* LinkedList */,
-				0E5F5E132BE8E60800316DFB /* Queue */,
-				0E5F5E122BE8E60200316DFB /* Stack */,
+				0E5F5E192BE8FD2E00316DFB /* 알고리즘 */,
+				0E5F5E182BE8FD2100316DFB /* 자료구조 */,
 				0E3CE7372BE3A9FB0066DA7F /* Assets.xcassets */,
 				0E3CE7392BE3A9FB0066DA7F /* LaunchScreen.storyboard */,
 				0E3CE73C2BE3A9FB0066DA7F /* Info.plist */,
@@ -109,6 +109,27 @@
 				0E5F5E162BE8F0B300316DFB /* HashTableViewController.swift */,
 			);
 			path = HashTable;
+			sourceTree = "<group>";
+		};
+		0E5F5E182BE8FD2100316DFB /* 자료구조 */ = {
+			isa = PBXGroup;
+			children = (
+				0E5F5E152BE8F0A400316DFB /* HashTable */,
+				0E5F5E142BE8E61000316DFB /* LinkedList */,
+				0E5F5E132BE8E60800316DFB /* Queue */,
+				0E5F5E122BE8E60200316DFB /* Stack */,
+			);
+			name = "자료구조";
+			path = "자료구조";
+			sourceTree = "<group>";
+		};
+		0E5F5E192BE8FD2E00316DFB /* 알고리즘 */ = {
+			isa = PBXGroup;
+			children = (
+				0E5F5E1A2BE8FD4B00316DFB /* SHA256ViewController.swift */,
+			);
+			name = "알고리즘";
+			path = "알고리즘";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,6 +217,7 @@
 				0E40A6712BE8C69B005992A2 /* LinkedListViewController.swift in Sources */,
 				0E3CE72F2BE3A9F90066DA7F /* AppDelegate.swift in Sources */,
 				0E3CE7312BE3A9F90066DA7F /* SceneDelegate.swift in Sources */,
+				0E5F5E1B2BE8FD4B00316DFB /* SHA256ViewController.swift in Sources */,
 				0E5F5E172BE8F0B300316DFB /* HashTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
