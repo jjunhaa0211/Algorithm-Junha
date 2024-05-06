@@ -101,7 +101,8 @@
 ### **챕터 V: 해시 테이블**<a id="해시테이블"></a>
   > | 순서 | 제목 | 내용 | 링크 |
   > |:---:| :--- | :--- | :--- |
-  > |1| 해시 테이블??? | **해시 테이블에 대해서 설명합니다!** | |
+  > |1| 해시 테이블??? | **해시 테이블에 대해서 설명합니다!** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/해시테이블/해시테이블.md) |
+  > |2| 해시 테이블 코드 | **해시 테이블 코드를 줍니다.** | [코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/Sources/JunhaAlgorithm/HashTable.swift) |
 
 ### **챕터 VI: 그래프**<a id="그래프"></a>
   > | 순서 | 제목 | 내용 | 링크 |
