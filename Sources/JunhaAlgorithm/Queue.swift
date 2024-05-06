@@ -7,6 +7,7 @@ protocol Queue {
     mutating func dequeue() -> Element?
     var isEmpty: Bool { get }
     var peek: Element? { get }
+    var count: Int { get }
 }
 
 public struct QueueArray<T>: Queue {
@@ -27,5 +28,18 @@ public struct QueueArray<T>: Queue {
         return isEmpty ? nil : array.removeFirst()
     }
     
+    public var count: Int {
+        return array.count
+    }
+    
     public init() { }
+    
+    public func toArray() -> [T] {
+        var array = [T]()
+        var tempQueue = self
+        while let element = tempQueue.dequeue() {
+            array.append(element)
+        }
+        return array
+    }
 }

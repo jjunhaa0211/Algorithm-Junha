@@ -11,7 +11,7 @@ public class Node<T> {
 }
 
 public struct LinkedList<T: Equatable> {
-    private var head: Node<T>?
+    public var head: Node<T>?
     
     public init(head: Node<T>? = nil) {
         self.head = head
@@ -95,7 +95,7 @@ public struct LinkedList<T: Equatable> {
         head = nil
     }
     
-    // 데이터로 원하는 노드 찾기
+    /// 데이터로 원하는 노드 찾기
     mutating public func searchNode(from data: T?) -> Node<T>? {
         // 데이터가 없으면 nil 반환
         if head == nil { return nil }
@@ -142,5 +142,20 @@ public struct LinkedList<T: Equatable> {
     // 연결 리스트가 비어있는지 판별
     public var isEmpty: Bool {
         return head == nil
+    }
+    
+    public func getNode(at index: Int) -> Node<T>? {
+        guard index >= 0 else { return nil }
+        var currentNode = head
+        var currentIndex = 0
+        
+        while currentNode != nil {
+            if currentIndex == index {
+                return currentNode
+            }
+            currentNode = currentNode?.next
+            currentIndex += 1
+        }
+        return nil
     }
 }
