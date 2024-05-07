@@ -81,7 +81,7 @@
   > |:---:| :--- | :--- | :--- | :--- |
   > |1| 배열? | **배열애 대해서 설명합니다.** | | |
   > |2| 연결 리스트 | **연결 리스트에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/연결리스트/단방향%20연결%20리스트.md)| [예제 코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/연결리스트/연결리스트.playground/Contents.swift) |
-  > |3| 이중 연결 리스트 | **이중 연결 리스트에 대해서 설명합니다.** | | |
+  > |3| 이중 연결 리스트 | **이중 연결 리스트에 대해서 설명합니다.** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/양방향연결리스트/양방향%20연결%20리스트.md) | [코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/Sources/JunhaAlgorithm/자료구조/DoublyLinkedList.swift) |
 
 ### **챕터 III: 스택**<a id="스택"></a>
   > | 순서 | 제목 | 내용 | 링크 |
