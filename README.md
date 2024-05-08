@@ -173,4 +173,5 @@
   > | 스택 | 스택2(28278) | 백준 | [문제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/문제/스택/스택2(백준)_28278/스택2(백준)_28278/main.swift) |
   > | 큐 | 큐(10845) | 백준 | [문제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/문제/큐/큐(백준)_10845/큐(백준)_10845/main.swift) |
   > | 이진 탐색 | 이진 검색 | 자료구조와 알고리즘 | [문제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/문제/이분%20검색/이분검색(자료구조와%20알고리즘)/이분검색(자료구조와%20알고리즘)/main.swift) |
-
+  > | 이진 탐색 | 랜선자르기 | 백준 | [문제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/문제/이분%20검색/랜선자르기(백준)/랜선자르기(백준)/main.swift) |
+ 
