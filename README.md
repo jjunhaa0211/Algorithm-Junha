@@ -126,9 +126,9 @@
   > |1| 트라이? | **트라이에 대해서 설명합니다!** | |
 
 ### **챕터 X: 이진 탐색**<a id="이진탐색"></a>
-  > | 순서 | 제목 | 내용 | 링크 |
-  > |:---:| :--- | :--- | :--- |
-  > |1| 이진 탐색? | **이진 탐색에 대해서 설명합니다!** | |
+  > | 순서 | 제목 | 내용 | 링크 | 코드 |
+  > |:---:| :--- | :--- | :--- | :--- |
+  > |1| 이진 탐색? | **이진 탐색에 대해서 설명합니다!** | [설명](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/1/이진탐색/이진탐색.md) | [코드](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/Sources/JunhaAlgorithm/자료구조/Array%2BbinarySearch.swift) |
 
 ### **챕터 XI: 정렬**<a id="정렬"></a>
   > | 순서 | 제목 | 내용 | 링크 | 코드 |
@@ -172,4 +172,5 @@
   > |:---:| :--- | :--- |  :--- |
   > | 스택 | 스택2(28278) | 백준 | [문제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/문제/스택/스택2(백준)_28278/스택2(백준)_28278/main.swift) |
   > | 큐 | 큐(10845) | 백준 | [문제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/문제/큐/큐(백준)_10845/큐(백준)_10845/main.swift) |
+  > | 이진 탐색 | 이진 검색 | 자료구조와 알고리즘 | [문제](https://github.com/jjunhaa0211/Algorithm-Junha/blob/main/문제/이분%20검색/이분검색(자료구조와%20알고리즘)/이분검색(자료구조와%20알고리즘)/main.swift) |
 
