@@ -16,7 +16,7 @@ public class HashTableViewController: UIViewController {
         super.viewDidLoad()
         
         hashTable.updateValue("박", forKey: "준하")
-        hashTable.updateValue("팍", forKey: "쭈나")
+        hashTable.updateValue("팍", forKey: "쭈")
         hashTable.updateValue("빡", forKey: "주우나")
 
         if let value = hashTable.getValue(forKey: "준하") {

@@ -19,6 +19,7 @@
 		0E40A6712BE8C69B005992A2 /* LinkedListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E40A6702BE8C69B005992A2 /* LinkedListViewController.swift */; };
 		0E5F5E172BE8F0B300316DFB /* HashTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5F5E162BE8F0B300316DFB /* HashTableViewController.swift */; };
 		0E5F5E1B2BE8FD4B00316DFB /* SHA256ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5F5E1A2BE8FD4B00316DFB /* SHA256ViewController.swift */; };
+		0E5F5E1E2BEB111300316DFB /* BinarySearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5F5E1D2BEB111300316DFB /* BinarySearchViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		0E40A6702BE8C69B005992A2 /* LinkedListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListViewController.swift; sourceTree = "<group>"; };
 		0E5F5E162BE8F0B300316DFB /* HashTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashTableViewController.swift; sourceTree = "<group>"; };
 		0E5F5E1A2BE8FD4B00316DFB /* SHA256ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SHA256ViewController.swift; sourceTree = "<group>"; };
+		0E5F5E1D2BEB111300316DFB /* BinarySearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 		0E5F5E182BE8FD2100316DFB /* 자료구조 */ = {
 			isa = PBXGroup;
 			children = (
+				0E5F5E1C2BEB110200316DFB /* BinarySearch */,
 				0E5F5E152BE8F0A400316DFB /* HashTable */,
 				0E5F5E142BE8E61000316DFB /* LinkedList */,
 				0E5F5E132BE8E60800316DFB /* Queue */,
@@ -130,6 +133,14 @@
 			);
 			name = "알고리즘";
 			path = "알고리즘";
+			sourceTree = "<group>";
+		};
+		0E5F5E1C2BEB110200316DFB /* BinarySearch */ = {
+			isa = PBXGroup;
+			children = (
+				0E5F5E1D2BEB111300316DFB /* BinarySearchViewController.swift */,
+			);
+			path = BinarySearch;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -214,6 +225,7 @@
 			files = (
 				0E3CE74E2BE3BFC40066DA7F /* QueueViewController.swift in Sources */,
 				0E3CE7462BE3AA9D0066DA7F /* StackViewController.swift in Sources */,
+				0E5F5E1E2BEB111300316DFB /* BinarySearchViewController.swift in Sources */,
 				0E40A6712BE8C69B005992A2 /* LinkedListViewController.swift in Sources */,
 				0E3CE72F2BE3A9F90066DA7F /* AppDelegate.swift in Sources */,
 				0E3CE7312BE3A9F90066DA7F /* SceneDelegate.swift in Sources */,
